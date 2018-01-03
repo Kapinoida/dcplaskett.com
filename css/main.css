@@ -128,6 +128,10 @@ p {
 /********** END MAIN PAGE **********/
 
 /********** PORTFOLIO PAGE **********/
+.wedding-link:hover, wedding-link:focus {
+  text-decoration: none;
+}
+
 .well {
   background-color: #22313F;
   border-radius: 0em;
